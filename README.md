@@ -29,4 +29,5 @@
 - RSG radialmenu 
 ## Video 
 
+Marwen-BN did a great job on making this work for RSG. 
 - https://youtu.be/XMwJsUgsETc
